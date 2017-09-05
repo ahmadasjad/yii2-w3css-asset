@@ -15,6 +15,7 @@ use yii\web\AssetBundle;
  */
 class W3CssAsset extends AssetBundle
 {
+    public $sourcePath = __DIR__;
     public $css = [
         'css/w3.css',
     ];
