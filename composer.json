@@ -1,0 +1,17 @@
+{
+    "name": "ahmadasjad/yii2-w3css-asset",
+    "description": "w3.css asset files for Yii 2.0 framework",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmad Asjad",
+            "email": "ahmadcimage@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
